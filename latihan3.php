@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Beranda</title>
+<link rel="stylesheet" href="asets/style.css" type="text/css">
+</head>
+<body>
+
+<div id="wrapper">
+	<div id="container">
+		<header><img src="images/Header.jpg"></header>
+		<nav>
+			<ul>
+				<li><a href="index.php">Beranda</a></li>
+				<li><a href="#">Artikel</a></li>
+				<li><a href="#">Profil</a>
+					<ul class="submenu">
+						<li><a href="#">Hub Kami</a></li>
+						<li><a href="#">Tentang Kami</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+		<article>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baca Selengkapnya - Yisunsin </title>
+</head>
+<body>
+
+  <h2>Yisunsin</h2>
+  <img src="images/article3.jpg" width="150" height="150" alt="Yisunsin" 
+  <p><strong>Yisunsin</strong> Yi Sun-shin adalah seorang laksamana dan pemimpin pasukan yang terkenal akan kebijaksanaan dan strategi perangnya.</p> 
+  <p> a menguasai senjata jarak jauh dan jarak dekat, mencerminkan kemampuannya beradaptasi dalam berbagai situasi. Yi Sun-shin digambarkan sebagai sosok bijaksana, tegas, dan berwibawa, layak menjadi panutan di medan perang.</p>
+
+  </div>
+			
+		</article>
+		<aside>
+			<li class="widget">
+				<h2>Berita Populer</h2>
+					<ul>
+						<li><a href="#">Rata rata pro player bisa menggunakan Hero Fanny</a></li>
+						<li><a href="#">Yi Sun Shin adalah hero langganan Banned</a></li>
+					</ul>
+			</li>
+			<li class="widget">
+				<h2>Artikel Populer</h2>
+					<ul>
+						<li><a href="#">Artikel 1</a></li>
+						<li><a href="#">Artikel 2</a></li>
+						<li><a href="#">Artikel 3</a></li>
+					</ul>
+			</li>
+			<li class="widget">
+				<h2>Berita Selanjutnya</h2>
+					<ul>
+						<li><a href="#">Fanny Kairi menggila</a></li>
+						<li><a href="#">Ling Albert di sebut monster</a></li>
+						<li><a href="#">M7 di wakili ONIC ID dan ALTER EGO</a></li>
+					</ul>
+			</li>
+
+  <p><a href="index.php">← Kembali ke Beranda</a></p>
+
+</body>
+</html>

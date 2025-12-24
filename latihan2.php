@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Beranda</title>
+<link rel="stylesheet" href="asets/style.css" type="text/css">
+</head>
+<body>
+
+<div id="wrapper">
+	<div id="container">
+		<header><img src="images/Header.jpg"></header>
+		<nav>
+			<ul>
+				<li><a href="index.php">Beranda</a></li>
+				<li><a href="#">Artikel</a></li>
+				<li><a href="#">Profil</a>
+					<ul class="submenu">
+						<li><a href="#">Hub Kami</a></li>
+						<li><a href="#">Tentang Kami</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+		<article>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baca Selengkapnya - Ling </title>
+</head>
+<body>
+
+  <h2>Ling</h2>
+  <img src="images/article2.jpg" width="150" height="150" alt="Ling" 
+  <p><strong>Ling</strong> Ling merupakan seorang pembunuh misterius yang hidup jauh dari dunia luar.</p> 
+  <p> Ia bergerak dengan cepat dan senyap, seperti bayangan. Ling memiliki sifat tenang, dingin, dan disiplin, lebih mengandalkan perhitungan dan ketepatan daripada emosi dalam setiap pertempuran.</p>
+
+  </div>
+			
+		</article>
+		<aside>
+			<li class="widget">
+				<h2>Berita Populer</h2>
+					<ul>
+						<li><a href="#">Rata rata pro player bisa menggunakan Hero Fanny</a></li>
+						<li><a href="#">Yi Sun Shin adalah hero langganan Banned</a></li>
+					</ul>
+			</li>
+			<li class="widget">
+				<h2>Artikel Populer</h2>
+					<ul>
+						<li><a href="#">Artikel 1</a></li>
+						<li><a href="#">Artikel 2</a></li>
+						<li><a href="#">Artikel 3</a></li>
+					</ul>
+			</li>
+			<li class="widget">
+				<h2>Berita Selanjutnya</h2>
+					<ul>
+						<li><a href="#">Fanny Kairi menggila</a></li>
+						<li><a href="#">Ling Albert di sebut monster</a></li>
+						<li><a href="#">M7 di wakili ONIC ID dan ALTER EGO</a></li>
+					</ul>
+			</li>
+
+  <p><a href="index.php">← Kembali ke Beranda</a></p>
+
+</body>
+</html>
